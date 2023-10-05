@@ -1,0 +1,536 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	/*	header start*/
+
+	.logo img {
+    	width: 80%;
+	}
+	
+	.navbar-collapse{
+		background-color: #101010;
+		text-align: center;
+	}
+
+	.menu ul li {
+    	margin-top: 10px;
+	}	
+
+	.menu ul li a{
+    	display: inline;
+	}
+
+	/*banner start*/
+	.c_h3{
+		font-size: 30px;
+	}
+
+	.c_h1{
+		font-size: 40px;
+	}
+/*banner end*/
+
+	.f_box {
+    	margin: 0;
+	}
+
+	.box1{
+		margin-top: 65px;
+		width: 290px;
+	}
+	.box2{
+
+		width: 290px;
+		height: 525px;
+	}
+
+	.box2 button {
+
+    	margin-left: 15px;
+    	padding: 10px 70px;
+
+	}
+
+	.box1 h2{
+		font-size: 22px;
+	}
+
+	.s_h1{
+
+		font-size: 35px;
+	}
+
+	.service button{
+
+		padding: 10px 20px;
+	}
+
+
+	.f_h3 {
+    	padding-top: 30px;
+    	font-size: 30px;
+	}
+
+	.f_h1 {
+    	font-size: 40px;
+
+	}
+
+	.ft_box button{
+
+		padding: 10px 20px;
+
+	}
+
+	.ft_box h1{
+		font-size: 40px;
+	}
+
+	.ab_title h3 {
+
+    	font-size: 25px;
+    	padding-top: 40px;
+
+	}
+
+	.ab_title h1{
+
+		font-size: 30px;
+	}
+
+	.ab_text h3{
+		font-size: 18px;
+	}
+
+	.ab_btn button{
+
+		padding: 10px 20px;
+	}
+
+	.app_title h3{
+
+		font-size: 25px;
+		padding-top: 40px;
+	}
+
+	.app_title h1{
+
+		font-size: 30px;
+	}
+
+	.app_read h4 {
+    	font-size: 22px;
+
+	}
+
+	.app_btn button img {
+    	width: 70%;
+	}
+
+	.test_title h3{
+
+		font-size: 25px;
+		padding-top: 40px;
+	}
+
+	.test_title h1{
+		font-size: 30px;
+	}
+
+	.app_read {
+    	padding-top: 40px;
+	}
+
+	.test_item {
+    	margin-top: 25px;
+    	margin-bottom: 35px;
+    	padding: 25px 60px;
+    	border-radius: 50px;
+
+	}
+
+	.rev_identity h4{
+		font-size: 20px;
+	}
+
+	.rev_identity h5{
+		font-size: 16px;
+	}
+
+	.banner2 h3{
+		font-size: 20px;
+	}
+
+	.banner2 h1 {
+    	font-size: 38px;
+
+    	padding-top: 10px;
+	}
+
+	.banner2 {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+
+
+	.ftitem h4 {
+		font-size: 20px;
+    	padding-top: 40px;
+    	padding-bottom: 20px;
+	}
+
+	.ftitem p {
+
+    	padding: 20px 60px 20px 0px;
+
+	}
+
+	.dots .dot {
+  		width: 15px;
+  		height: 15px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/*	header start*/
+
+	.logo img {
+    	width: 80%;
+	}
+	
+	.navbar-collapse{
+		background-color: #101010;
+		text-align: center;
+	}
+
+	.menu ul li {
+    	margin-top: 10px;
+	}	
+
+	.menu ul li a{
+    	display: inline;
+	}
+/*banner start*/
+	.c_h3{
+		font-size: 30px;
+	}
+
+	.c_h1{
+		font-size: 50px;
+	}
+/*banner end*/
+
+	.s_h1{
+
+		font-size: 40px;
+	}
+
+	.service button{
+
+		padding: 10px 20px;
+	}
+
+	.f_box {
+
+    	margin: 0 45px;
+	}
+
+	.f_h3 {
+    	padding-top: 35px;
+    	font-size: 32px;
+	}
+
+	.f_h1 {
+    	font-size: 45px;
+
+	}
+
+	.ft_box button{
+
+		padding: 10px 20px;
+
+	}
+
+	.ft_box h1{
+		font-size: 40px;
+	}
+
+	.ab_title h3 {
+
+    	font-size: 30px;
+    	padding-top: 50px;
+
+	}
+
+	.ab_title h1{
+
+		font-size: 35px;
+	}
+
+	.ab_btn button{
+
+		padding: 10px 20px;
+	}
+
+	.app_title h3{
+
+		font-size: 30px;
+		padding-top: 50px;
+	}
+
+	.app_title h1{
+
+		font-size: 35px;
+	}
+
+	.app_btn button img {
+    	width: 80%;
+	}
+
+	.test_title h3{
+
+		font-size: 30px;
+		padding-top: 50px;
+	}
+
+	.test_title h1{
+		font-size: 35px;
+	}
+
+	.app_read {
+    	padding-top: 40px;
+	}
+
+	.test_item {
+    	margin-top: 40px;
+    	margin-bottom: 70px;
+    	padding: 20px 80px;
+    	border-radius: 70px;
+
+	}
+
+	.banner2 h3{
+		font-size: 25px;
+	}
+
+	.banner2 h1 {
+    	font-size: 50px;
+
+    	padding-top: 10px;
+	}
+
+	.ftitem h4 {
+    	padding-top: 40px;
+    	padding-bottom: 20px;
+	}
+
+	.ftitem p {
+
+    	padding: 20px 60px 20px 0px;
+
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*	header start*/
+	
+	.navbar-collapse{
+		background-color: #101010;
+		text-align: center;
+	}
+
+	.menu ul li {
+    	margin-top: 10px;
+	}	
+
+	.menu ul li a{
+    display: inline;
+	}
+
+	/*	banner start*/
+	.c_h3 {
+    	padding-top: 90px;
+    	font-size: 30px;
+	}
+	.c_h1{
+		font-size: 60px;
+	}
+/*banner end*/
+
+	.s_h1{
+		font-size: 40px;
+	}
+	.box1{
+		margin-top: 100px;
+	}
+	.f_h3 {
+    	padding-top: 50px;
+    	font-size: 30px;
+	}
+	.f_h1{
+		font-size: 45px;
+	}
+	.ab_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.ab_title h1{
+		font-size: 35px;
+	}
+	.app_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.app_title h1{
+		font-size: 35px;
+	}
+	.test_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.test_title h1{
+		font-size: 35px;
+	}
+	.test_item{
+		margin-top: 40px;
+		margin-bottom: 80px;
+	}
+	.banner2 {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+	.banner2 h3{
+		font-size: 25px;
+	}
+	.banner2 h1{
+		font-size: 50px;
+		padding-top: 15px;
+	}
+
+	.dots .dot {
+  		width: 20px;
+  		height: 20px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*	banner start*/
+	.c_h3 {
+    	padding-top: 90px;
+    	font-size: 30px;
+	}
+	.c_h1{
+		font-size: 60px;
+	}
+/*banner end*/
+
+	.s_h1{
+		font-size: 40px;
+	}
+	.service button{
+		padding: 10px 25px;
+	}
+	.box1{
+		width: 370px;
+	}
+	.box1 h2{
+		font-size: 30px;
+	}
+	.box2{
+		width: 370px;
+	}
+	.box2 input{
+		margin-left: 15px;
+		padding-top: 10px;
+	}
+	.ft_box {
+    	padding: 100px 35px 25px 35px;
+	}
+	.f_h3 {
+    	padding-top: 50px;
+    	font-size: 30px;
+	}
+	.f_h1{
+		font-size: 45px;
+	}
+	.f_box {
+    	margin: 0 60px;
+	}
+	.ft_box h1{
+		font-size: 40px;
+	}
+	.ft_box button{
+		padding: 10px 25px;
+	}
+	.ab_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.ab_title h1{
+		font-size: 35px;
+	}
+	.ab_btn button{
+		padding: 10px 25px;
+	}
+	.app_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.app_title h1{
+		font-size: 35px;
+	}
+	.app_btn button img {
+    	width: 90%;
+	}
+	.app_btn button {
+    	margin-right: 0px;
+	}
+	.test_title h3{
+		padding-top: 70px;
+		font-size: 30px;
+	}
+	.test_title h1{
+		font-size: 35px;
+	}
+	.test_item {
+    	margin-top: 80px;
+    	margin-bottom: 70px;
+    	padding: 30px 80px;
+	}
+	.rev_identity h4{
+		font-size: 20px;
+	}
+	.rev_identity h5{
+		font-size: 16px;
+	}
+	.banner2 {
+    	padding-top: 60px;
+    	padding-bottom: 70px;
+	}
+	.banner2 h3{
+		font-size: 30px;
+	}
+	.banner2 h1{
+		font-size: 60px;
+		padding-top: 20px;
+	}
+	.ftitem h4 {
+    	font-size: 20px;
+    	padding-top: 60px;
+    	padding-bottom: 30px;
+	}
+	.ftitem p {
+    	padding: 30px 50px 30px 0px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98) {}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {}
